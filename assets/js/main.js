@@ -1,3 +1,10 @@
+/**
+* Template Name: BizLand
+* Updated: Jan 29 2024 with Bootstrap v5.3.2
+* Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
 (function() {
   "use strict";
 
